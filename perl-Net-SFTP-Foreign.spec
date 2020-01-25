@@ -4,7 +4,6 @@
 
 %define		pdir	Net
 %define		pnam	SFTP-Foreign
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::SFTP-Foreign - SSH File Transfer Protocol client
 Name:		perl-Net-SFTP-Foreign
 Version:	1.77
