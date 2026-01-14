@@ -7,7 +7,7 @@
 Summary:	Net::SFTP-Foreign - SSH File Transfer Protocol client
 Name:		perl-Net-SFTP-Foreign
 Version:	1.77
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
